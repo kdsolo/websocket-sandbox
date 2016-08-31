@@ -1,0 +1,26 @@
+{
+  _id: "0",
+  details: {
+    githubUser: "kdsolo",
+    displayName: "test"
+  },
+  status: {
+    value: "0",
+    'last-modified': "0"
+    },
+  message: {
+    value: "0",
+    sender: "00",
+    'last-modified': "0"
+  },
+  slots: { 
+    value: [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6"
+    ]
+  }
+}
